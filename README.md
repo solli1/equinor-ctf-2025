@@ -66,6 +66,7 @@ Steps:
  - **[Post Quantum Resistant Crypto for Enterprises](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises)**
  - **[pkcstiming](/writeups/crypto/pkcstiming)**
  - **[Curvy](/writeups/crypto/Curvy)**
+	 - [bwnFools](/writeups/crypto/Curvy/bwnFools)  
 ### boot2root
  - **[cve-safari](/writeups/boot2root/cve-safari)**
  - **[PotatoHead (user)](/writeups/boot2root/PotatoHead%20(user))**
