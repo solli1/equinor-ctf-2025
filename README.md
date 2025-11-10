@@ -54,6 +54,7 @@ Steps:
 	 - [sifi](/writeups/web/shop-8/sifi)  
  - **[Sigma2KQL Converter](/writeups/web/Sigma2KQL%20Converter)**
 	 - [Iku-toppene](/writeups/web/Sigma2KQL%20Converter/Iku-toppene)  
+	 - [ekho](/writeups/web/Sigma2KQL%20Converter/ekho)  
  - **[CloudNotes](/writeups/web/CloudNotes)**
 	 - [big](/writeups/web/CloudNotes/big)  
  - **[shop-7](/writeups/web/shop-7)**
